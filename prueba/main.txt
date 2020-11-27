@@ -2,7 +2,4 @@ fsdsdfsd
 hola
 Wena
 aloh
-# ¿Cómo están?
-
--------
-Nueva vista
+por fin
